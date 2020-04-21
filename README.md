@@ -1,10 +1,16 @@
 ## Create Anypoint Private Cloud Resources on Amazon Web Services (AWS)
+``` 
+How-to guide to create resources required to install Anypoint PCE on AWS.
+Anypoint PCE supports 3-node and 6-node configuration in a prod env on AWS.
+```
+The **Anypoint Platform Private Cloud Edition** provides the following application components available in the online version of Anypoint Platform:
+* **Runtime Manager:** enables you to track and manage your deployed Mule applications
+* **API Manager:** enables you to manage your registered APIs
+* **Anypoint Exchange:** enables your organization to **share various assets** that can be **reused across integration projects**.
 
-**Description**: 
-
-How-to guide to create resources required to install **Anypoint PCE** on **AWS**.
-
-Anypoint PCE supports **3-node** and **6-node** configuration in a **prod env** on **AWS**.
+- You can run and manage Mule applications on your local servers.
+- Anypoint Platform PCE uses Docker and Kubernetes to provide built-in high availability and scalability.
+- You can install the platform without understanding Docker or Kubernetes.
 
 
 **Prerequisites**:
